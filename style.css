@@ -1,0 +1,25 @@
+body{
+    background-color: rgba(0, 0, 0, 0.39);
+}
+tool.svg{
+    
+}
+
+
+
+
+
+table{
+    background:black;
+}
+table {
+  
+    border-radius: 8px;
+    table-layout: fixed;
+   color: wheat;
+margin:10px 50px ;
+}
+  .class="dots"{
+      margin-right: auto;
+  }
+
